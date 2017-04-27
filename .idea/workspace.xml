@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e011bca5-59c0-4cae-98c8-3f4d595542ef" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\about.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\css\framework7.ios.colors.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\css\framework7.ios.colors.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\css\framework7.ios.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\css\framework7.ios.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\css\framework7.ios.rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\css\framework7.ios.rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\css\framework7.material.colors.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\css\framework7.material.colors.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\css\framework7.material.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\css\framework7.material.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\css\framework7.material.rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\css\framework7.material.rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\css\my-app.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\form.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-f7-ios.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-f7-material.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-calendar-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-calendar-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-comment-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-comment-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-email-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-email-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-gender-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-gender-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-name-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-name-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-password-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-password-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-settings-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-settings-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-tel-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-tel-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-toggle-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-toggle-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-url-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\img\i-form-url-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\js\framework7.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\js\framework7.js.map" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\js\framework7.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\js\framework7.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\js\my-app.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\dist\services.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\inline-pages\css\my-app.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\inline-pages\debug.log" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\inline-pages\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\inline-pages\jade\index.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\inline-pages\js\my-app.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\inline-pages\less\my-app.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view-panel\about.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view-panel\css\my-app.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view-panel\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view-panel\jade\about.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view-panel\jade\index.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view-panel\jade\left-page-1.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view-panel\jade\left-page-2.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view-panel\jade\services.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view-panel\js\my-app.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view-panel\left-page-1.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view-panel\left-page-2.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view-panel\less\my-app.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view-panel\services.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view\about.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view\css\my-app.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view\debug.log" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view\jade\about.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view\jade\index.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view\jade\left-page-1.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view\jade\left-page-2.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view\jade\services.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view\js\my-app.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view\left-page-1.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view\left-page-2.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view\less\my-app.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\split-view\services.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\tab-bar\about.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\tab-bar\css\my-app.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\tab-bar\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\tab-bar\jade\about.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\tab-bar\jade\index.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\tab-bar\jade\services.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\tab-bar\js\my-app.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\tab-bar\less\my-app.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\tab-bar\services.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\template7-pages\car.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\template7-pages\cars.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\template7-pages\contacts.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\template7-pages\css\my-app.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\template7-pages\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\template7-pages\jade\car.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\template7-pages\jade\cars.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\template7-pages\jade\contacts.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\template7-pages\jade\index.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\template7-pages\jade\projects.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\template7-pages\js\my-app.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\template7-pages\less\my-app.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\examples\template7-pages\projects.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\about.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\accordion.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\autocomplete.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\bars-deep-navbar-2.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\bars-deep-navbar-3.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\bars-deep-navbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\bars-hide-on-scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\bars-hide.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\bars-no-navbar-toolbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\bars-no-navbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\bars-no-toolbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\bars-sub-navbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\bars-tabbar-labels.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\bars-tabbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\bars.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\calendar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\cards.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\color-themes.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\contacts.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\core-features.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\css\kitchen-sink.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\debug.log" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\forms-buttons.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\forms-checkboxes.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\forms-elements.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\forms-selects.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\forms-storage.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\forms.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\grid.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\img\beach.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\img\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\img\lock.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\img\monkey.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\img\mountains.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\infinite-scroll-load.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\infinite-scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\about.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\accordion.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\autocomplete.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\bars-deep-navbar-2.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\bars-deep-navbar-3.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\bars-deep-navbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\bars-hide-on-scroll.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\bars-hide.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\bars-no-navbar-toolbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\bars-no-navbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\bars-no-toolbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\bars-sub-navbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\bars-tabbar-labels.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\bars-tabbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\bars.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\calendar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\cards.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\color-themes.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\contacts.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\core-features.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\forms-buttons.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\forms-checkboxes.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\forms-elements.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\forms-selects.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\forms-storage.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\forms.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\grid.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\index.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\infinite-scroll.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\lazy-load.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\list-view.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\login-screen-embedded.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\login-screen.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\media-lists.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\messages.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\modals.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\notifications.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\panels.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\photo-browser.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\picker.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\popover.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\preloader.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\progressbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\pull-to-refresh.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\searchbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\sortable-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swipe-delete.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-3d-coverflow.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-3d-cube.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-3d-flip.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-custom.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-fade.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-gallery.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-horizontal.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-lazy.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-loop.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-multiple.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-nested.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-pagination-fraction.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-pagination-progress.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-parallax.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-scrollbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-space-between.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper-vertical.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\swiper.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\tabs-animated.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\tabs-static.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\tabs-swipeable.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\tabs.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\transitions.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\jade\virtual-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\js\autocomplete-languages.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\js\kitchen-sink.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\lazy-load.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\less\kitchen-sink.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\list-view.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\login-screen-embedded.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\login-screen.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\media-lists.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\messages.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\modals.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\notifications.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\panel-right2.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\panel-right3.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\panels.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\photo-browser.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\picker.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\popover.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\preloader.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\progressbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\pull-to-refresh.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\searchbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\sortable-list.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swipe-delete.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-3d-coverflow.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-3d-cube.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-3d-flip.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-control.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-custom.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-fade.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-gallery.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-horizontal.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-lazy.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-loop.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-multiple.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-nested.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-pagination-fraction.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-pagination-progress.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-parallax.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-scrollbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-space-between.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper-vertical.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\swiper.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\tabs-animated.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\tabs-static.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\tabs-swipeable.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\tabs.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\transitions.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-ios\virtual-list.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\about.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\accordion.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\autocomplete.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\bars-deep-navbar-2.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\bars-deep-navbar-3.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\bars-deep-navbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\bars-hide-on-scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\bars-hide.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\bars-no-navbar-toolbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\bars-no-navbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\bars-no-toolbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\bars-sub-navbar-title.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\bars-sub-navbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\bars-tabbar-labels.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\bars-tabbar-scrollable.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\bars-tabbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\bars-toolbar-bottom.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\bars.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\calendar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\cards.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\chips.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\color-themes.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\contacts.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\core-features.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\css\kitchen-sink.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\floating-button-dial.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\floating-button-popover.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\floating-button-static.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\floating-button.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\forms-buttons.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\forms-checkboxes.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\forms-elements.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\forms-selects.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\forms-storage.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\forms.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\grid.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\img\beach.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\img\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\img\lock.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\img\monkey.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\img\mountains.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\infinite-scroll-load.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\infinite-scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\about.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\accordion.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\autocomplete.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\bars-hide-on-scroll.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\bars-sub-navbar-title.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\bars-sub-navbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\bars-tabbar-labels.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\bars-tabbar-scrollable.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\bars-tabbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\bars-toolbar-bottom.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\bars.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\calendar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\cards.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\chips.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\color-themes.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\contacts.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\core-features.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\floating-button-dial.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\floating-button-popover.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\floating-button-static.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\floating-button.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\forms-buttons.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\forms-checkboxes.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\forms-elements.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\forms-selects.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\forms-storage.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\forms.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\grid.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\index.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\infinite-scroll.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\lazy-load.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\list-view.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\login-screen-embedded.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\login-screen.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\media-lists.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\messages.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\modals.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\notifications.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\panels.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\photo-browser.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\picker.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\popover.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\preloader.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\progressbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\pull-to-refresh.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\searchbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\sortable-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swipe-delete.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-3d-coverflow.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-3d-cube.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-3d-flip.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-custom.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-fade.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-gallery.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-horizontal.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-loop.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-multiple.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-nested.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-pagination-fraction.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-pagination-progress.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-parallax.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-scrollbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-space-between.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper-vertical.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\swiper.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\tabs-animated.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\tabs-static.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\tabs-swipeable.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\tabs.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\jade\virtual-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\js\autocomplete-languages.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\js\kitchen-sink.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\lazy-load.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\less\kitchen-sink.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\list-view.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\login-screen-embedded.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\login-screen.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\media-lists.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\messages.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\modals.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\notifications.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\panel-right2.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\panel-right3.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\panels.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\photo-browser.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\picker.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\popover.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\preloader.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\progressbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\pull-to-refresh.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\searchbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\sortable-list.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swipe-delete.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-3d-coverflow.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-3d-cube.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-3d-flip.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-control.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-custom.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-fade.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-gallery.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-horizontal.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-loop.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-multiple.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-nested.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-pagination-fraction.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-pagination-progress.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-parallax.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-scrollbar.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-space-between.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper-vertical.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\swiper.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\tabs-animated.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\tabs-static.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\tabs-swipeable.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\tabs.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\kitchen-sink-material\virtual-list.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\modules.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\package.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-f7-ios.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-f7-material.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-calendar-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-calendar-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-comment-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-comment-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-email-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-email-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-gender-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-gender-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-name-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-name-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-password-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-password-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-settings-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-settings-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-tel-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-tel-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-toggle-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-toggle-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-url-ios.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\img\i-form-url-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\accordion.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\autocomplete.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\calendar.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\clicks.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\dom7-ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\dom7-intro.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\dom7-methods.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\dom7-outro.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\dom7-utils.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\f7-intro.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\f7-outro.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\fast-clicks.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\forms-ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\forms-storage.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\forms-textarea.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\infinite-scroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\init.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\lazy-load.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\material-inputs.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\material-preloader.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\material-tabbar.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\messagebar.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\messages.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\modals.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\navbars.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\notifications.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\pages.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\panels.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\photo-browser.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\picker.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\progressbar.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\proto-device.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\proto-plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\proto-support.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\pull-to-refresh.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\push-state.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\resize.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\router.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\scroll-toolbars.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\searchbar.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\smart-select.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\sortable.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\swipeout.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\swiper-init.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\swiper.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\tabs.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\template7-templates.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\template7.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\views.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\virtual-list.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\wrap-end.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\wrap-start.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\js\xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\_colors-vars.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\_mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\accordion.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\autocomplete.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\badges.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\calendar.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\cards.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\contacts.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\content-block.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\disabled.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\forms.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\framework7.ios.colors.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\framework7.ios.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\framework7.ios.rtl.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\grid.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\icons.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\intro.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\lazy-load.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\lists.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\login-screen.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\messagebar.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\messages.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\modals.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\notifications.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\pages.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\panels.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\photo-browser.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\picker.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\preloader.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\progressbar.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\pull-to-refresh.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\searchbar.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\statusbar.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\swiper.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\tabs.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\toolbars-pages.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\toolbars.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\ios\views.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\_colors-vars.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\_mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\accordion.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\autocomplete.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\badges.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\calendar.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\cards.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\chips.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\contacts.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\content-block.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\disabled.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\floating-button.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\forms.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\framework7.material.colors.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\framework7.material.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\framework7.material.rtl.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\grid.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\icons.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\intro.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\lazy-load.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\lists.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\login-screen.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\messagebar.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\messages.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\modals.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\notifications.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\pages.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\panels.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\photo-browser.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\picker.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\preloader.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\progressbar.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\pull-to-refresh.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\ripple.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\searchbar.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\statusbar.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\swiper.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\tabs.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\toolbars-pages.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\toolbars.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\less\material\views.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\my-app\my-app.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\my-app\my-app.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\templates\about.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\templates\form.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\templates\index.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\F7\src\templates\services.jade" afterPath="" />
+      <change type="DELETED" beforePath="D:\CORE\xampp\htdocs\c-pro" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../c-app2_new" afterPath="$PROJECT_DIR$/../c-app2_new" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../c-app" afterPath="$PROJECT_DIR$/../c-app" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../nn_shop" afterPath="$PROJECT_DIR$/../nn_shop" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pendaftaran" afterPath="$PROJECT_DIR$/../pendaftaran" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kpi_new/5r.php" afterPath="$PROJECT_DIR$/../kpi_new/5r.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dist_kokola2/admin_dist/action_list_kj2.php" afterPath="$PROJECT_DIR$/../dist_kokola2/admin_dist/action_list_kj2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dist_kokola2/admin_dist/action_ppic.php" afterPath="$PROJECT_DIR$/../dist_kokola2/admin_dist/action_ppic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/add.html" afterPath="$PROJECT_DIR$/add.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../e-proposal/adminx.php" afterPath="$PROJECT_DIR$/../e-proposal/adminx.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kpi_new/capaian.php" afterPath="$PROJECT_DIR$/../kpi_new/capaian.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dist_kokola2/admin_dist/cari_total.php" afterPath="$PROJECT_DIR$/../dist_kokola2/admin_dist/cari_total.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kpi_new/daftar.php" afterPath="$PROJECT_DIR$/../kpi_new/daftar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kpi_new/data.sql" afterPath="$PROJECT_DIR$/../kpi_new/data.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../e-proposal/detail.php" afterPath="$PROJECT_DIR$/../e-proposal/detail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lat_json2/form_make_get.html" afterPath="$PROJECT_DIR$/../lat_json2/form_make_get.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lat_json2/form_make_getJSON.html" afterPath="$PROJECT_DIR$/../lat_json2/form_make_getJSON.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dist_kokola2/admin_dist/konfirmasi/get_sudah_konfirmx.php" afterPath="$PROJECT_DIR$/../dist_kokola2/admin_dist/konfirmasi/get_sudah_konfirmx.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../e-proposal/handover.php" afterPath="$PROJECT_DIR$/../e-proposal/handover.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../e-proposal/handover_admin.php" afterPath="$PROJECT_DIR$/../e-proposal/handover_admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kpi_new/home.php" afterPath="$PROJECT_DIR$/../kpi_new/home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kpi_new/implementasi.php" afterPath="$PROJECT_DIR$/../kpi_new/implementasi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PROJEC_BARU/index.php" afterPath="$PROJECT_DIR$/../PROJEC_BARU/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../crudOOP/index.php" afterPath="$PROJECT_DIR$/../crudOOP/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../epoch/index.php" afterPath="$PROJECT_DIR$/../epoch/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hash/index.php" afterPath="$PROJECT_DIR$/../hash/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tes_mail/index.php" afterPath="$PROJECT_DIR$/../tes_mail/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kpi_new/indicator.php" afterPath="$PROJECT_DIR$/../kpi_new/indicator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../e-proposal/list.php" afterPath="$PROJECT_DIR$/../e-proposal/list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dist_kokola2/admin_dist/list_total_kj_ppic.php" afterPath="$PROJECT_DIR$/../dist_kokola2/admin_dist/list_total_kj_ppic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dist_kokola2/login.log" afterPath="$PROJECT_DIR$/../dist_kokola2/login.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kpi_new/org.php" afterPath="$PROJECT_DIR$/../kpi_new/org.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dist_kokola2/admin_dist/print.php" afterPath="$PROJECT_DIR$/../dist_kokola2/admin_dist/print.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kpi_new/tahunan.php" afterPath="$PROJECT_DIR$/../kpi_new/tahunan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kpi_new/tes3.php" afterPath="$PROJECT_DIR$/../kpi_new/tes3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kpi_new/training.php" afterPath="$PROJECT_DIR$/../kpi_new/training.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kpi_new/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../kpi_new/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kpi_new/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../kpi_new/.idea/workspace.xml" />
+    </list>
+    <ignored path="SALDO_7.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SALDO_7" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-20.73077" vertical-offset="3422" max-vertical-offset="4063">
+              <caret line="233" column="8" selection-start-line="233" selection-start-column="8" selection-end-line="233" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="history.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/history.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.269231" vertical-offset="1518" max-vertical-offset="5219">
+              <caret line="105" column="36" selection-start-line="105" selection-start-column="36" selection-end-line="105" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/add.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.07176287" vertical-offset="3422" max-vertical-offset="5032">
+              <caret line="204" column="0" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="input.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.769231" vertical-offset="536" max-vertical-offset="1190">
+              <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+              <folding>
+                <marker date="1492499641245" expanded="true" signature="266:474" placeholder="INSERT INTO ..." />
+                <marker date="1492499641245" expanded="true" signature="516:729" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="action_delete.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/action_delete.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="646">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="koneksi.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koneksi.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="action.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/action.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="816">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="22" />
+              <folding>
+                <marker date="1485231074000" expanded="true" signature="166:188" placeholder="SELECT * FRO..saldo_gh..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/action_delete.php" />
+        <option value="$PROJECT_DIR$/input.php" />
+        <option value="$PROJECT_DIR$/history.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/add.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1225" />
+    <option name="height" value="816" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SALDO_7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SALDO_7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SALDO_7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CORE\xampp\htdocs\SALDO_7" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e011bca5-59c0-4cae-98c8-3f4d595542ef" name="Default" comment="" />
+      <created>1492477210163</created>
+      <option name="number" value="Default" />
+      <updated>1492477210163</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1225" height="816" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1579818" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4267">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/history.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1518" max-vertical-offset="5219">
+          <caret line="105" column="36" selection-start-line="105" selection-start-column="36" selection-end-line="105" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2776" max-vertical-offset="3876">
+          <caret line="129" column="36" selection-start-line="129" selection-start-column="36" selection-end-line="129" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="536" max-vertical-offset="1190">
+          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+          <folding>
+            <marker date="1492499641245" expanded="true" signature="266:474" placeholder="INSERT INTO ..." />
+            <marker date="1492499641245" expanded="true" signature="516:729" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="646">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koneksi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="816">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="22" />
+          <folding>
+            <marker date="1485231074000" expanded="true" signature="166:188" placeholder="SELECT * FRO..saldo_gh..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1989" max-vertical-offset="4216">
+          <caret line="117" column="37" selection-start-line="117" selection-start-column="37" selection-end-line="117" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5593">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="646">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koneksi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="816">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="22" />
+          <folding>
+            <marker date="1485231074000" expanded="true" signature="166:188" placeholder="SELECT * FRO..saldo_gh..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/history.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="5185">
+          <caret line="63" column="58" selection-start-line="63" selection-start-column="58" selection-end-line="63" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="646">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koneksi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="816">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="22" />
+          <folding>
+            <marker date="1485231074000" expanded="true" signature="166:188" placeholder="SELECT * FRO..saldo_gh..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.769231" vertical-offset="536" max-vertical-offset="1190">
+          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+          <folding>
+            <marker date="1492499641245" expanded="true" signature="266:474" placeholder="INSERT INTO ..." />
+            <marker date="1492499641245" expanded="true" signature="516:729" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/history.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.269231" vertical-offset="1518" max-vertical-offset="5219">
+          <caret line="105" column="36" selection-start-line="105" selection-start-column="36" selection-end-line="105" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.73077" vertical-offset="3422" max-vertical-offset="4063">
+          <caret line="233" column="8" selection-start-line="233" selection-start-column="8" selection-end-line="233" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07176287" vertical-offset="3422" max-vertical-offset="5032">
+          <caret line="204" column="0" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
